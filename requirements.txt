@@ -1,0 +1,4 @@
+numpy==1.26.2
+openai==1.2.0
+line-bot-sdk
+pymysql==1.1.0
